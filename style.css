@@ -1,0 +1,34 @@
+body{
+	max-width: 800px;
+	margin: 0 auto;
+
+}
+.templeat{
+	background: #FFFFCB;
+}
+.ringhtcontant address{
+	text-align: right;
+	margin-right: 12px;
+
+}
+.ringhtcontant h3{
+	text-align: right;
+	margin-right: 12px;
+}
+.leftcontant{
+
+}
+.leftcontant address{
+	margin-left: 12px;
+}
+.leftcontant h3{
+	margin-left: 12px;
+}
+.leftcontant p{
+	margin-left: 12px;
+
+}
+.leftcontant h4{
+	margin-left: 12px;
+
+}
